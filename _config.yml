@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title: HyG
 email: gaohaoyang126@126.com
 description: 浩阳的博客 前端爱好者
@@ -8,7 +8,7 @@ description: 浩阳的博客 前端爱好者
 #   Google search results) and in your feed.xml site description.
 
 # baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
+# url: "https://github.com/chriszhuge/chriszhuge.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  Gaohaoyang
 permalink: /:year/:month/:day/:title/
