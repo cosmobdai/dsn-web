@@ -18,8 +18,8 @@ email:
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/chriszhuge/chriszhuge.github.io" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-# github_username:  jekyll
+# twitter_username: 
+github_username:  chriszhuge
 
 # Build settings
 markdown: kramdown
@@ -35,5 +35,5 @@ baseurl: ""
 feed: true
 
 # Social links
-linkedin: openpy
-github: chriszhuge
+linkedin: 
+github: "https://github.com/chriszhuge"
