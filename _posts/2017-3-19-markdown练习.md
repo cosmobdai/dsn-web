@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Markdown 练习"
-date:   2017-01-01 06:47:37 +0545
 categories: jekyll update
 ---
 #Markdown 练习#
