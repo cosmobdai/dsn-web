@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Markdown 练习"
+date:   3/19/2017 4:12:23 PM 
+categories: jekyll update
+---
 #Markdown 练习#
 ---            
 那就先从段首缩进说起吧。原因是认真看完 Markdowm 的文档满心激动地想写文章的时候，发现 Markdown 本身不支持段首缩进，只好去查资料。（但是写着写着发现段首缩进不好看就都去掉了）
