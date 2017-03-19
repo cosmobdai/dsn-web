@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "拧巴的小世界"
+title: "Love in Houston"
 email: 
 description: "一只程序媛？"
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,7 +28,7 @@ markdown: kramdown
 # Theme setting
 author: Chris Zhuge
 nick:   
-profession: "student"
+profession: "coding astronauts "
 tagline: ""
 timezone: 
 baseurl: ""
