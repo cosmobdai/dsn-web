@@ -37,3 +37,5 @@ feed: true
 # Social links
 linkedin: 
 github: "chriszhuge"
+
+theme: jekyll-theme-architect
